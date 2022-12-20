@@ -19,4 +19,5 @@
 ### 사용 기술
 - ExoPlayer
 - Retrofit
+- Glide
 - androidx.contraintLayout.widget.Group
