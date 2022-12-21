@@ -3,7 +3,7 @@
 ### 프로젝트 소개
 기존 음악 스트리밍 앱을 참고하여 만든 음악 스트리밍 앱 
 
-![](https://velog.velcdn.com/images/jieun0915/post/3e124796-ad9c-4ed7-8f02-4cc525935f57/image.jpg)
+![6E8FBAD8-B1A4-4B5F-951D-D83BBC5DDDA7-58326-000018670535B52C](https://user-images.githubusercontent.com/120105216/208840434-0db9eb68-c44c-49a0-a457-b45af314cd2a.JPG)
 
 ---
 
