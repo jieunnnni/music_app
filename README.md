@@ -21,3 +21,4 @@
 - Retrofit
 - Glide
 - androidx.contraintLayout.widget.Group
+- viewBinding
